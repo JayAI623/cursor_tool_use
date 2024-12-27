@@ -1,0 +1,16 @@
+openai
+fastapi
+uvicorn
+python-multipart
+numpy
+websockets
+scipy
+google-generativeai
+pytest
+pytest-asyncio
+pytest-mock
+httpx
+duckduckgo_search
+playwright
+html5lib
+beautifulsoup4
